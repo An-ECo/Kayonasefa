@@ -1,6 +1,7 @@
 <h1>Text,Calculators and storage</h1>
-<h3>Text</h3> 
+<h2>Text</h2> 
 <p><b>Text</b> is the content we add in our text editor. It is the important part of any programming as it contains what we are trying to do.</p>
+<br.
 <h3>Calculators</h3>
 <p><b>Calculators</b> are compilers and enterpreters that we use to change our code to macchine language. Computers can only understand binary code therefore it is necessary to change the code we've wrriten.  </p>
 <h3>Storage</h3>
